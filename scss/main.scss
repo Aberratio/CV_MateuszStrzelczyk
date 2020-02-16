@@ -369,6 +369,11 @@ img {
   color: #fff;
   height: 5rem;
 
+  .copyright a {
+    text-decoration: none;
+    color: rgb(124, 47, 98);
+  }
+
   .footer-content {
     display: flex;
     justify-content: space-between;

@@ -368,6 +368,9 @@ img {
   background: #333;
   color: #fff;
   height: 5rem; }
+  #main-footer .copyright a {
+    text-decoration: none;
+    color: #7c2f62; }
   #main-footer .footer-content {
     display: flex;
     justify-content: space-between;
